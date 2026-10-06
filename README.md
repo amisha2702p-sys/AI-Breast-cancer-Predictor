@@ -13,7 +13,7 @@ The 5 most important features, selected using Random Forest feature importance:
 - Worst radius
 - Mean concavity
 - ## Model
-[Logistic Regression / Random Forest], with an accuracy of [0.974/947] on the test set.
+[Logistic Regression], with an accuracy of [0.974] on the test set.
 
 ## Files
 - `app.py` - Streamlit app
